@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.l3z1.MainActivity">
+    <item android:title="Sort by newest" android:id="@+id/sortAddingOrder">
+        <menu>
+            <item android:title="ascending" android:id="@+id/sortAddingOrderAsc"/>
+            <item android:title="descending" android:id="@+id/sortAddingOrderDesc"/>
+        </menu>
+    </item>
+    <item android:title="Sort by name" android:id="@+id/sortName">
+        <menu>
+            <item android:title="ascending" android:id="@+id/sortNameAsc"/>
+            <item android:title="descending" android:id="@+id/sortNameDesc"/>
+        </menu>
+    </item>
+    <item android:title="Sort by icon" android:id="@+id/sortIcon">
+        <menu>
+            <item android:title="ascending" android:id="@+id/sortIconAsc"/>
+            <item android:title="descending" android:id="@+id/sortIconDesc"/>
+        </menu>
+    </item>
+    <item android:title="Sort by date" android:id="@+id/sortDate">
+        <menu>
+            <item android:title="ascending" android:id="@+id/sortDateAsc"/>
+            <item android:title="descending" android:id="@+id/sortDateDesc"/>
+        </menu>
+    </item>
+</menu>

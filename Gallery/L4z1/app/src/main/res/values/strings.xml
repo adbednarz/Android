@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">L4z1</string>
+    <string-array name="descriptions">
+        <item>KAROLEWICZ</item>
+        <item>FART</item>
+        <item>BLITZKRIEG</item>
+        <item>PARZYGNAT</item>
+        <item>OKRAJKA</item>
+        <item>VARSAVIANISTKA</item>
+        <item>GORZELNIA</item>
+        <item>DOBITKA</item>
+        <item>DICKENS</item>
+        <item>REMONTER</item>
+        <item>AMPEROGODZINA</item>
+        <item>RETYCENCJA</item>
+        <item>SOCJOMEDYCYNA</item>
+        <item>DREPANIS</item>
+        <item>WODNIK</item>
+        <item>MALKA</item>
+        <item>DYPTAM</item>
+        <item>DONATYZM</item>
+        <item>HANOWERKA</item>
+        <item>ROZKOSZNIAK</item>
+    </string-array>
+</resources>
