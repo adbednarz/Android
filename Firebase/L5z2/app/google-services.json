@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77733352910",
+    "firebase_url": "https://l5z2-c6296-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "l5z2-c6296",
+    "storage_bucket": "l5z2-c6296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77733352910:android:de0e1dad4fe16f8c67479f",
+        "android_client_info": {
+          "package_name": "com.example.l5z2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77733352910-amgbtre4ob4bism0upui0jvrnstfduf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSUx4HZB1xN6zy553mav2wpRX8-j_TNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77733352910-amgbtre4ob4bism0upui0jvrnstfduf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
